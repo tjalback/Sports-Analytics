@@ -7,6 +7,5 @@ I was inspired to start my own project after getting some exposure to sports ana
 
 Over the last decade, analytics seems to have become an integral part of measuring team or individual success and failure. Players and coaches speak to its usefulness to highlight strengths or improvement areas. Others argue that it is over-emphasized and should be used as one of many tools to inform decisions on and off the court.  
 
-In the repo, I'll be adding some Jupyter notebooks of my own analyses. I wanted to build end-to-end projects, starting by accessing open data on the web through to analysis and visualisation. Some of my intial questions are, why do I like some players over others. Do players who actually perform really well is some aspects of a sport get the same media attention as others. How does player salary actually impact on team performance. 
-
+In the repo, I'll add some analyses in Python. I wanted to build end-to-end projects, starting by accessing available data through to analysis and visualisation. 
 
